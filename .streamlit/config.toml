@@ -1,0 +1,8 @@
+#lightmode
+
+[theme]
+base="light"
+primaryColor="#003366"
+backgroundColor="#e4e4e4ff"
+secondaryBackgroundColor="#ffffff"
+textColor="#000000"

@@ -1,0 +1,20 @@
+[
+{
+    "code": "DLBIBRVS01", "name": "Betriebssysteme, Rechnernetze und verteilte Systeme", "bestanden": true, "ects": 5, "bemerkung": "Annerkant durch Vorleistung", "semesterNummer": 1
+},
+{
+    "code": "DLBISIC01", "name": "Einführung in Datenschutz und IT-Sicherheit", "bestanden": false, "ects": 5, "semesterNummer": 1
+},
+{
+    "code": "DLBDSIPWP01_D", "name": "Einführung in die Programmierung mit Python", "bestanden": false, "ects": 5, "semesterNummer": 1
+},
+{
+    "code": "DLBWIRITT01", "name": " Einführung in das wissenschaftliche Arbeiten für IT und Technik", "bestanden": false, "ects": 5, "semesterNummer": 1
+},
+{
+    "code": "DLBDSOOFPP01_D", "name": "Projekt: Objektorientierte und funktionale Programmierung mit Python", "bestanden": false, "ects": 5, "semesterNummer": 1
+},
+{
+    "code": "-", "name": "WAHLPFLICHTBEREICH C - Praktikum", "bestanden": true, "ects": 30, "bemerkung": "Annerkant durch Vorleistung", "semesterNummer": 1
+}
+]
