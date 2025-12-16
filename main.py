@@ -10,6 +10,10 @@ def load_module():
     handler = DataHandler()
     return handler.load_module()
 
+def load_studiengang():
+    handler = DataHandler()
+    return handler.load_studiengang()
+
 
 st.sidebar.image("./resources/IU_Internationale_Hochschule_logo.svg", use_container_width=True)
 st.sidebar.title("Demo Menu")
@@ -19,10 +23,12 @@ st.title("Demo Dashboard", text_alignment="center")
 #First ROW
 col1, col2, col3, col4 = st.columns(4)
 
+studiengang = load_studiengang()
+
 with col1:
     with st.container(border=True):
         st.subheader("Studiengang")
-        st.markdown("Bachelor<br>Cyber Security (B.Sc)", unsafe_allow_html=True)
+        st.markdown(studiengang.name, unsafe_allow_html=True)
 
 with col2:
     with st.container(border=True):

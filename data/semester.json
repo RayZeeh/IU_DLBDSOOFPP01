@@ -1,0 +1,23 @@
+[
+{
+    "nummer": 1, "studiengangName": "Cyber Security (B.SC.)", "aktiv": true
+},
+{
+    "nummer": 2, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+},
+{
+    "nummer": 3, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+},
+{
+    "nummer": 4, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+},
+{
+    "nummer": 5, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+},
+{
+    "nummer": 6, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+},
+{
+    "nummer": 7, "studiengangName": "Cyber Security (B.SC.)", "aktiv": false
+}
+]
